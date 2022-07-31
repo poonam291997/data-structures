@@ -1,0 +1,4 @@
+1. Can we have method implementations in interface?
+2. Difference between Integer and int
+3. Why declare initial size in heap - we could just keep on adding the elements?
+4. Difference between heap.add() and heap.offer()
