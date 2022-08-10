@@ -1,6 +1,6 @@
 package heap.concept;
 
-import java.util.PriorityQueue;
+import java.util.*;
 
 /**
  * Example of some commonly used methods of PriorityQueue(pq) class in Java
